@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: msvc-twilio
+
+twilio:
+  accountSid: AC3fb34429d17dce80d1a26e947535bd5b
+  authToken: ae17d71fc06c4bda18643496ba38437a
+  phoneNumber: +16627565507
